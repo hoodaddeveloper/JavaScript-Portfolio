@@ -1,8 +1,11 @@
-# My Personal Portfolio: (Working on it!)
-## HTML/CSS Projects:
+# This List contains all of my Projects from Simple to Advanced!
+## Starting from HTML & CSS Projects to Java Script & Front-end Development Projects.
 
-## Java Script Projects:
-## Level 1:
+## 01. HTML & CSS Projects:
+
+## 02. Java Script Projects:
+
+## Level 1 (Easier Projects):
 
 - [... name ...](https://github.com/hoodaddeveloper/.....) ✔
 
@@ -16,7 +19,7 @@
 - Rock, Paper, Scissors Game
 - Note Taking App
 
-## Level 2:
+## Level 2 (Medium Peojects):
 
 - [... name ...](https://github.com/hoodaddeveloper/.....) ✔
 
@@ -29,7 +32,7 @@
 - Flash Card App
 - Address Book (Contact Manager)
 
-## Level 3:
+## Level 3 (Advanced Projects):
 
 - [... name ...](https://github.com/hoodaddeveloper/.....) ✔
 
