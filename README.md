@@ -1,5 +1,5 @@
 # My JavaScript-Portfolio
-## Level 1 (5 Projects):
+## Level 1:
 
 - [... name ...](https://github.com/hoodaddeveloper/.....) ✔
 
@@ -13,7 +13,7 @@
 - Rock, Paper, Scissors Game
 - Note Taking App
 
-## Level 2 (5 Projects):
+## Level 2:
 
 - [... name ...](https://github.com/hoodaddeveloper/.....) ✔
 
@@ -26,7 +26,7 @@
 - Flash Card App
 - Address Book (Contact Manager)
 
-## Level 3 (5 Projects):
+## Level 3:
 
 - [... name ...](https://github.com/hoodaddeveloper/.....) ✔
 
