@@ -1,5 +1,5 @@
 # This List contains all of my Projects from Simple to Advanced!
-## Starting from HTML & CSS Projects to Java Script & Front-end Development Projects.
+## Starting from HTML & CSS Projects to Java Script & Front-end Development.
 
 ## 01. HTML & CSS Projects:
 
@@ -46,7 +46,7 @@
 - Airline/Hotel Reservation System
 - WYSIWG (What you see is what you get) Editor
 
-## Front-end Projects:
+## 03. Front-end Projects:
 
 - [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) from Flavio Copes
 - [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?utm_source=pocket_mylist) from dreamincode.net
