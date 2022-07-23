@@ -5,7 +5,7 @@
 
 ## 02. Java Script Projects:
 
-## Level 1 (Easier Projects):
+### Level 1 (Easier Projects):
 
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 
@@ -19,7 +19,7 @@
 - Rock, Paper, Scissors Game
 - Note Taking App
 
-## Level 2 (Medium Peojects):
+### Level 2 (Medium Peojects):
 
 - [... name ...](https://github.com/hoodaddeveloper/.....) ✔
 
@@ -32,7 +32,7 @@
 - Flash Card App
 - Address Book (Contact Manager)
 
-## Level 3 (Advanced Projects):
+### Level 3 (Advanced Projects):
 
 - [... name ...](https://github.com/hoodaddeveloper/.....) ✔
 
