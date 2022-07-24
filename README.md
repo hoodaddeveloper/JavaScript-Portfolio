@@ -8,6 +8,7 @@
 ### Level 1 (Easier Projects):
 
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
+- [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
 
 - Digital Clock
 - Todo App
