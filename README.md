@@ -60,7 +60,8 @@
 
 ## 03. Front-end Projects:
 
-- [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Mastermind-Game) ✔
+- [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-1) ✔
+- [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
 
 - [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) from Flavio Copes
 - [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?utm_source=pocket_mylist) from dreamincode.net
