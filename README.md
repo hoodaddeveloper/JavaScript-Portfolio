@@ -4,13 +4,14 @@
 ## 01. HTML & CSS Projects:
 ### Level 1 (Easier Projects):
 
-- [Mini-Project-1](https://github.com/hoodaddeveloper/Mini-Project-1) ✔
-- [Mini-Project-2](https://github.com/hoodaddeveloper/Mini-Project-2) ✔
+- [Mini Project 1](https://github.com/hoodaddeveloper/Mini-Project-1) ✔
+- [Mini Project 2](https://github.com/hoodaddeveloper/Mini-Project-2) ✔
 - [Umbrella Corporation](https://github.com/hoodaddeveloper/Umbrella-Corporation) ✔
 - [Hoodad’s Town](https://github.com/hoodaddeveloper/Hoodads-Town) ✔
 - [Hoodad’s Courses](https://github.com/hoodaddeveloper/Hoodads-Courses) ✔
+- [Heart Stars](https://github.com/hoodaddeveloper/Heart-Stars) ✔
 - [NetMarket PMS GmbH](https://github.com/hoodaddeveloper/NetMarket-PMS-GmbH) ✔
-- [Bootstrap-Website](https://github.com/hoodaddeveloper/Bootstrap-Website) ✔
+- [Bootstrap Website](https://github.com/hoodaddeveloper/Bootstrap-Website) ✔
 ### AND:
 - [Other list of my 20 HTML & CSS Projects from freeCodeCamp](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
 
@@ -19,7 +20,6 @@
 
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
-
 - Digital Clock
 - Todo App
 - Expense Tracker
