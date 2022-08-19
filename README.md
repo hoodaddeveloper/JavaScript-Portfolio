@@ -2,7 +2,6 @@
 ### Starting from HTML & CSS Projects to Java Script & Front-end Development.
 
 ## 01. HTML & CSS Projects:
-### Level 1 (Easier Projects):
 
 - [Mini Project 1](https://github.com/hoodaddeveloper/Mini-Project-1) ✔
 - [Mini Project 2](https://github.com/hoodaddeveloper/Mini-Project-2) ✔
@@ -20,6 +19,7 @@
 
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
+- [BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) in progress...
  
 - Digital Clock
 - Todo App
@@ -46,7 +46,7 @@
 
 ### Level 3 (Advanced Projects):
 
-- [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) ✔
+- [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) in progress...
 
 - Facebook Clone
 - Twitter Clone
