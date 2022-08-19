@@ -13,13 +13,14 @@
 - [NetMarket PMS GmbH](https://github.com/hoodaddeveloper/NetMarket-PMS-GmbH) ✔
 - [Bootstrap Website](https://github.com/hoodaddeveloper/Bootstrap-Website) ✔
 - AND:
-- [Other list of my 20 HTML & CSS Projects from freeCodeCamp](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
+- [Other List of my 20 HTML & CSS Projects from freeCodeCamp](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
 
 ## 02. JavaScript Projects:
 ### Level 1 (Easier Projects):
 
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
+ 
 - Digital Clock
 - Todo App
 - Expense Tracker
@@ -32,7 +33,7 @@
 
 ### Level 2 (Medium Peojects):
 
-- [... name ...](https://github.com/hoodaddeveloper/.....) ✔
+- [Jump Game](https://github.com/hoodaddeveloper/Jump-Game) ✔
 
 - Space Invaders Game
 - Snake Game
@@ -45,7 +46,7 @@
 
 ### Level 3 (Advanced Projects):
 
-- [... name ...](https://github.com/hoodaddeveloper/.....) ✔
+- [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) ✔
 
 - Facebook Clone
 - Twitter Clone
@@ -58,6 +59,8 @@
 - WYSIWG (What you see is what you get) Editor
 
 ## 03. Front-end Projects:
+
+- [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Mastermind-Game) ✔
 
 - [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) from Flavio Copes
 - [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?utm_source=pocket_mylist) from dreamincode.net
