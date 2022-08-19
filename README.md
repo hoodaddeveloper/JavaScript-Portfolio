@@ -1,5 +1,5 @@
 # This List contains all of my Projects from Simple to Advanced!
-### Starting from HTML & CSS Projects to Java Script & Front-end Development.
+### Starting from HTML & CSS Projects to JavaScript & Front-end Projects.
 
 ## 01. HTML & CSS Projects:
 
@@ -19,44 +19,44 @@
 
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
-- [BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) in progress...
+- [BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) (in progress...)
  
-- Digital Clock
-- Todo App
-- Expense Tracker
-- Vowel Counter
-- Pig Latin Generator
-- Weight Tracker App
-- Recipes App
-- Rock, Paper, Scissors Game
-- Note Taking App
+- Digital Clock (soon...)
+- Todo App (soon...)
+- Expense Tracker (soon...)
+- Vowel Counter (soon...)
+- Pig Latin Generator (soon...)
+- Weight Tracker App (soon...)
+- Recipes App (soon...)
+- Rock, Paper, Scissors Game (soon...)
+- Note Taking App (soon...)
 
 ### Level 2 (Medium Peojects):
 
 - [Jump Game](https://github.com/hoodaddeveloper/Jump-Game) ✔
 
-- Space Invaders Game
-- Snake Game
-- Tetris Game
-- Pong Game
-- Calculator
-- Web Scraper
-- Flash Card App
-- Address Book (Contact Manager)
+- Space Invaders Game (soon...)
+- Snake Game (soon...)
+- Tetris Game (soon...)
+- Pong Game (soon...)
+- Calculator (soon...)
+- Web Scraper (soon...)
+- Flash Card App (soon...)
+- Address Book (Contact Manager) (soon...)
 
 ### Level 3 (Advanced Projects):
 
-- [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) in progress...
+- [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) (in progress...)
 
-- Facebook Clone
-- Twitter Clone
-- LinkedIn Clone
-- Instagram Clone
-- Online Forum
-- "Fake" E-Commerce Store
-- Crypto Tracker
-- Airline/Hotel Reservation System
-- WYSIWG (What you see is what you get) Editor
+- Facebook Clone (soon...)
+- Twitter Clone (soon...)
+- LinkedIn Clone (soon...)
+- Instagram Clone (soon...)
+- Online Forum (soon...)
+- "Fake" E-Commerce Store (soon...)
+- Crypto Tracker (soon...)
+- Airline/Hotel Reservation System (soon...)
+- WYSIWG (What you see is what you get) Editor (soon...)
 
 ## 03. Front-end Projects:
 
