@@ -3,7 +3,9 @@
 
 ## 01. HTML & CSS Projects:
 
-## 02. Java Script Projects:
+- [20 HTML & CSS Projects from freeCodeCamp](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
+
+## 02. JavaScript Projects:
 
 ### Level 1 (Easier Projects):
 
