@@ -4,6 +4,16 @@
 ## 01. HTML & CSS Projects:
 
 - [20 HTML & CSS Projects from freeCodeCamp](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
+- [Umbrella Corporation](https://github.com/hoodaddeveloper/Umbrella-Corporation) ✔
+- []() ✔
+- []() ✔
+- []() ✔
+- []() ✔
+- []() ✔
+- []() ✔
+- []() ✔
+- []() ✔
+
 
 ## 02. JavaScript Projects:
 
