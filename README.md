@@ -11,8 +11,8 @@
 - [Heart Stars](https://github.com/hoodaddeveloper/Heart-Stars) ✔
 - [NetMarket PMS GmbH](https://github.com/hoodaddeveloper/NetMarket-PMS-GmbH) ✔
 - [Bootstrap Website](https://github.com/hoodaddeveloper/Bootstrap-Website) ✔
-- AND:
-- [Other List of my 20 HTML & CSS Projects from freeCodeCamp](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
+- And: :point_down:
+- [`Other List of my 20 HTML & CSS Projects from freeCodeCamp`](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
 
 ## 02. JavaScript Projects:
 ### Level 1 (Easier Projects):
