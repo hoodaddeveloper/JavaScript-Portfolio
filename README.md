@@ -20,6 +20,11 @@
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
 - [BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) (in progress...)
+- [freeCodeCamp Palindrome Checker] (https://github.com/hoodaddeveloper/...) (soon...)
+- [freeCodeCamp Roman Numeral Converter] (https://github.com/hoodaddeveloper/...) (soon...)
+- [freeCodeCamp Caesars Cipher] (https://github.com/hoodaddeveloper/...) (soon...)
+- [freeCodeCamp Telephone Number Validator] (https://github.com/hoodaddeveloper/...) (soon...)
+- [freeCodeCamp Cash Register] (https://github.com/hoodaddeveloper/...) (soon...)
  
 - Digital Clock (soon...)
 - Todo App (soon...)
