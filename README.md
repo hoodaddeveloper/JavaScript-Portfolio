@@ -22,6 +22,8 @@
 - [freeCodeCamp Caesars Cipher](https://github.com/hoodaddeveloper/...) (soon...)
 - [freeCodeCamp Telephone Number Validator](https://github.com/hoodaddeveloper/...) (soon...)
 - [freeCodeCamp Cash Register](https://github.com/hoodaddeveloper/...) (soon...)
+- [My own Registration Form](https://github.com/hoodaddeveloper/...) ✔
+- [My Accordion & Pop-Up](https://github.com/hoodaddeveloper/...) ✔
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
 - [My BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) (in progress...)
