@@ -17,11 +17,11 @@
 ## 02. JavaScript Projects:
 ### Level 1 (Easier Projects):
 
-- [freeCodeCamp Palindrome Checker](https://github.com/hoodaddeveloper/Palindrome-Checker)
-- [freeCodeCamp Roman Numeral Converter](https://github.com/hoodaddeveloper/Roman-Numeral-Converter)
-- [freeCodeCamp Caesars Cipher](https://github.com/hoodaddeveloper/Caesars-Cipher)
-- [freeCodeCamp Telephone Number Validator](https://github.com/hoodaddeveloper/Telephone-Number-Validator)
-- [freeCodeCamp Cash Register](https://github.com/hoodaddeveloper/...) (soon...)
+- [freeCodeCamp Palindrome Checker](https://github.com/hoodaddeveloper/Palindrome-Checker) ✔
+- [freeCodeCamp Roman Numeral Converter](https://github.com/hoodaddeveloper/Roman-Numeral-Converter) ✔
+- [freeCodeCamp Caesars Cipher](https://github.com/hoodaddeveloper/Caesars-Cipher) ✔
+- [freeCodeCamp Telephone Number Validator](https://github.com/hoodaddeveloper/Telephone-Number-Validator) ✔
+- [freeCodeCamp Cash Register](https://github.com/hoodaddeveloper/Cash-Register) ✔
 - [My own Registration Form](https://github.com/hoodaddeveloper/My-Registration-Form) ✔
 - [My Accordion & Pop-Up Page](https://github.com/hoodaddeveloper/Accordion-And-Popup) ✔
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
