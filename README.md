@@ -17,8 +17,8 @@
 ## 02. JavaScript Projects:
 ### Level 1 (Easier Projects):
 
-- [freeCodeCamp Palindrome Checker](https://github.com/hoodaddeveloper/Palindrome-Checker) (soon...)
-- [freeCodeCamp Roman Numeral Converter](https://github.com/hoodaddeveloper/...) (soon...)
+- [freeCodeCamp Palindrome Checker](https://github.com/hoodaddeveloper/Palindrome-Checker)
+- [freeCodeCamp Roman Numeral Converter](https://github.com/hoodaddeveloper/Roman-Numeral-Converter)
 - [freeCodeCamp Caesars Cipher](https://github.com/hoodaddeveloper/...) (soon...)
 - [freeCodeCamp Telephone Number Validator](https://github.com/hoodaddeveloper/...) (soon...)
 - [freeCodeCamp Cash Register](https://github.com/hoodaddeveloper/...) (soon...)
