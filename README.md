@@ -10,7 +10,6 @@
 - [Hoodad’s Courses](https://github.com/hoodaddeveloper/Hoodads-Courses) ✔
 - [Heart Stars](https://github.com/hoodaddeveloper/Heart-Stars) ✔
 - [NetMarket PMS GmbH](https://github.com/hoodaddeveloper/NetMarket-PMS-GmbH) ✔
-- [Bootstrap Website](https://github.com/hoodaddeveloper/Bootstrap-Website) ✔
 - and :point_down:
 - [`Other List of my 20 HTML & CSS Projects from freeCodeCamp`](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
 
@@ -67,6 +66,7 @@
 
 ## 03. Front-end Projects:
 
+- [Bootstrap Website](https://github.com/hoodaddeveloper/Bootstrap-Website) ✔
 - [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-1) ✔
 - [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
 
