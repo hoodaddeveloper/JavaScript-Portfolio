@@ -78,6 +78,7 @@
 - [Random Quote Machine](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
 - [Markdown Previewer](https://github.com/hoodaddeveloper/Markdown-Previewer) ✔
 - [Drum Machine](https://github.com/hoodaddeveloper/Drum-Machine) ✔
+- [JavaScript Calculator](https://github.com/hoodaddeveloper/JavaScript-Calculator) ✔
 
 - [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) from Flavio Copes
 - [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?utm_source=pocket_mylist) from dreamincode.net
