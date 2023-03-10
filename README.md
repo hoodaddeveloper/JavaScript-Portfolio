@@ -72,8 +72,10 @@
 ## 03. Front-end Projects:
 
 - [Bootstrap Mini Project](https://github.com/hoodaddeveloper/Bootstrap-Mini-Project) ✔
-- [Bootstrap Sass Mini Project](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project) ✔
+- [Bootstrap Sass Mini Project 1](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project-1) ✔
+- [Bootstrap Sass Mini Project 2](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project-2) ✔
 - [Bootstrap Website](https://github.com/hoodaddeveloper/Bootstrap-Website) ✔
+- [Bootstrap Sass Mini Project](https://github.com/hoodaddeveloper/Bootstrap-Sass-Portfolio-Page) ✔
 - [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-1) ✔
 - [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
 - [Random Quote Machine](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
