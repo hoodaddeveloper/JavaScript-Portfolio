@@ -30,7 +30,7 @@
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
 - [Jump Game](https://github.com/hoodaddeveloper/Jump-Game) ✔
 - [BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) (in progress...)
-- Calculator (soon...)
+- [JavaScript Calculator](https://github.com/hoodaddeveloper/JavaScript-Calculator) ✔
 - Snake Game (soon...)
 - [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) (in progress...)
 - "Fake" E-Commerce Store (soon...)
