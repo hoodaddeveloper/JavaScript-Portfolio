@@ -15,8 +15,7 @@
 - [Technical Documentation Page](https://github.com/hoodaddeveloper/Technical-Documentation-Page) ✔
 - [Product Landing Page](https://github.com/hoodaddeveloper/Product-Landing-Page) ✔
 - [Personal Portfolio Webpage](https://github.com/hoodaddeveloper/freeCodeCamp-Personal-Portfolio) ✔
-- and :point_down:
-- [`Other List of my 20 HTML & CSS Projects from freeCodeCamp`](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
+- [`And Other List of my 20 HTML & CSS Projects from freeCodeCamp`](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
 
 ## 02. JavaScript Projects (From easier to harder tasks):
 
