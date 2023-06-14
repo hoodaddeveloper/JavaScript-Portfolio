@@ -3,8 +3,8 @@
 
 ## 01. HTML & CSS Projects:
 
-- [Mini Project 1](https://github.com/hoodaddeveloper/Mini-Project-1) ✔
-- [Mini Project 2](https://github.com/hoodaddeveloper/Mini-Project-2) ✔
+- [HTML CSS Mini Project 1](https://github.com/hoodaddeveloper/Mini-Project-1) ✔
+- [HTML CSS Mini Project 2](https://github.com/hoodaddeveloper/Mini-Project-2) ✔
 - [Umbrella Corporation](https://github.com/hoodaddeveloper/Umbrella-Corporation) ✔
 - [Hoodad’s Town](https://github.com/hoodaddeveloper/Hoodads-Town) ✔
 - [Hoodad’s Courses](https://github.com/hoodaddeveloper/Hoodads-Courses) ✔
