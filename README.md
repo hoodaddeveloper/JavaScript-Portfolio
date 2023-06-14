@@ -17,7 +17,7 @@
 - [Personal Portfolio Webpage](https://github.com/hoodaddeveloper/freeCodeCamp-Personal-Portfolio) ✔
 - [`And Other List of my 20 HTML & CSS Projects from freeCodeCamp`](https://github.com/hoodaddeveloper/freeCodeCamp-Certification-Progress) ✔
 
-## 02. JavaScript Projects (From easier to harder tasks):
+## 02. JavaScript Projects (from easier to harder tasks):
 
 - [freeCodeCamp Palindrome Checker](https://github.com/hoodaddeveloper/Palindrome-Checker) ✔
 - [freeCodeCamp Roman Numeral Converter](https://github.com/hoodaddeveloper/Roman-Numeral-Converter) ✔
@@ -33,11 +33,9 @@
 - Calculator (soon...)
 - Snake Game (soon...)
 - [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) (in progress...)
-
-
-- Instagram Clone (soon...)
 - "Fake" E-Commerce Store (soon...)
 - Airline/Hotel Reservation System (soon...)
+- Instagram Clone (soon...)
 
 ## 03. Front-end Projects:
 
