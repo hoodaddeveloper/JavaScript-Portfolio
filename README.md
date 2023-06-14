@@ -28,8 +28,8 @@
 - [My Accordion & Pop-Up Page](https://github.com/hoodaddeveloper/Accordion-And-Popup) ✔
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
-- [My BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) (in progress...)
 - [Jump Game](https://github.com/hoodaddeveloper/Jump-Game) ✔
+- [BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) (in progress...)
 - Calculator (soon...)
 - Snake Game (soon...)
 - [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) (in progress...)
