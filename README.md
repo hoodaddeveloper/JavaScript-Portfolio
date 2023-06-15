@@ -43,6 +43,7 @@
 - [Bootstrap Website](https://github.com/hoodaddeveloper/Bootstrap-Website) ✔
 - [Bootstrap Sass Mini Project 1](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project-1) ✔
 - [Bootstrap Sass Mini Project 2](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project-2) ✔
+- [Bootstrap Sass Mini Project 3](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project-3) ✔
 - [Business Landing Page](https://github.com/hoodaddeveloper/Business-Landing-Page) (in progress...)
 - [Bootstrap Sass Portfolio Page](https://github.com/hoodaddeveloper/Bootstrap-Sass-Portfolio-Page) (in progress...)
 - [Transportation Company Website](https://github.com/hoodaddeveloper/Transportation-Company-Website) ✔
