@@ -1,5 +1,5 @@
 # This List contains all of my Projects from simple to advanced!
-### Starting from HTML & CSS Projects to JavaScript & Front-end Projects.
+### Starting from HTML & CSS Projects to JavaScript & Front-end Projects
 
 ## 01. HTML & CSS Projects:
 
