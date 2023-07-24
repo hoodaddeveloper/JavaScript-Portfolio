@@ -5,6 +5,7 @@
 
 - [HTML CSS Mini Project 1](https://github.com/hoodaddeveloper/HTML-CSS-Mini-Project-1) ✔
 - [HTML CSS Mini Project 2](https://github.com/hoodaddeveloper/HTML-CSS-Mini-Project-2) ✔
+- [HTML CSS Mini Project 3](https://github.com/hoodaddeveloper/HTML-CSS-Mini-Project-3) ✔
 - [Umbrella Corporation](https://github.com/hoodaddeveloper/Umbrella-Corporation) ✔
 - [Hoodad’s Town](https://github.com/hoodaddeveloper/Hoodads-Town) ✔
 - [Hoodad’s Courses](https://github.com/hoodaddeveloper/Hoodads-Courses) ✔
