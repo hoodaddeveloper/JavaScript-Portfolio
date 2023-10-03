@@ -57,7 +57,7 @@
 - [JavaScript Calculator](https://github.com/hoodaddeveloper/JavaScript-Calculator) ✔
 - [25 + 5 Clock](https://github.com/hoodaddeveloper/Pomodoro_Clock) ✔
 
-### You can also checkout some more ideas:
+## You can also checkout some more ideas:
 
 - [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) from Flavio Copes
 - [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?utm_source=pocket_mylist) from dreamincode.net
