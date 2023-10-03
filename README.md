@@ -48,7 +48,7 @@
 - [Business Landing Page](https://github.com/hoodaddeveloper/Business-Landing-Page) (in progress...)
 - [Bootstrap Sass Portfolio Page](https://github.com/hoodaddeveloper/Bootstrap-Sass-Portfolio-Page) (in progress...)
 - [Transportation Company Website](https://github.com/hoodaddeveloper/Transportation-Company-Website) ✔
-- [Vue Sandbox](https://github.com/hoodaddeveloper/Vue-Sandbox) (in progress...)
+- [Vue Sandbox](https://github.com/hoodaddeveloper/Vue-Sandbox)
 - [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-1) ✔
 - [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
 - [Random Quote Machine](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
