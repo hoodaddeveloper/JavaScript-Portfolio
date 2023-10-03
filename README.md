@@ -45,10 +45,10 @@
 - [Bootstrap Sass Mini Project 1](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project-1) ✔
 - [Bootstrap Sass Mini Project 2](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project-2) ✔
 - [Bootstrap Sass Mini Project 3](https://github.com/hoodaddeveloper/Bootstrap-Sass-Mini-Project-3) ✔
-- [Business Landing Page](https://github.com/hoodaddeveloper/Business-Landing-Page) (in progress...)
-- [Bootstrap Sass Portfolio Page](https://github.com/hoodaddeveloper/Bootstrap-Sass-Portfolio-Page) (in progress...)
+- [Business Landing Page](https://github.com/hoodaddeveloper/Business-Landing-Page) ✔
+- [Bootstrap Sass Portfolio Page](https://github.com/hoodaddeveloper/Bootstrap-Sass-Portfolio-Page) ✔
 - [Transportation Company Website](https://github.com/hoodaddeveloper/Transportation-Company-Website) ✔
-- [Vue Sandbox](https://github.com/hoodaddeveloper/Vue-Sandbox)
+- [Vue Sandbox](https://github.com/hoodaddeveloper/Vue-Sandbox) ✔
 - [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-1) ✔
 - [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
 - [Random Quote Machine](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
