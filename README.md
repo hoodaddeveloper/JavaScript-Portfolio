@@ -51,6 +51,7 @@
 - [Vue Sandbox](https://github.com/hoodaddeveloper/Vue-Sandbox) ✔
 - [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-1) ✔
 - [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
+- [Vue.js Mini Project 3](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-3) ✔
 - [Random Quote Machine](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
 - [Markdown Previewer](https://github.com/hoodaddeveloper/Markdown-Previewer) ✔
 - [Drum Machine](https://github.com/hoodaddeveloper/Drum-Machine) ✔
