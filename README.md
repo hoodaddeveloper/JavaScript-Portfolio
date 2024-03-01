@@ -30,13 +30,8 @@
 - [My Booklist](https://github.com/hoodaddeveloper/My-Booklist) ✔
 - [My Weather App](https://github.com/hoodaddeveloper/My-Weather-App) ✔
 - [Jump Game](https://github.com/hoodaddeveloper/Jump-Game) ✔
-- [BMI Calculator](https://github.com/hoodaddeveloper/BMI-Calculator) (in progress...)
 - [JavaScript Calculator](https://github.com/hoodaddeveloper/JavaScript-Calculator) ✔
-- Snake Game (soon...)
 - [Mastermind Game](https://github.com/hoodaddeveloper/Mastermind-Game) (in progress...)
-- "Fake" E-Commerce Store (soon...)
-- Airline/Hotel Reservation System (soon...)
-- Instagram Clone (soon...)
 
 ## 03. Front-end Projects:
 
@@ -53,7 +48,7 @@
 - [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
 - [Vue.js Mini Project 3](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-3) ✔
 - [Vue.js Twitter Page](https://github.com/hoodaddeveloper/Vue.js-Twitter-Page) ✔
-- [Vue.js Ticketbox](https://github.com/hoodaddeveloper/Vue.js-Ticketbox) soon
+- [Vue.js Ticketbox](https://github.com/hoodaddeveloper/Vue.js-Ticketbox) ✔
 - [Random Quote Machine](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
 - [Markdown Previewer](https://github.com/hoodaddeveloper/Markdown-Previewer) ✔
 - [Drum Machine](https://github.com/hoodaddeveloper/Drum-Machine) ✔
