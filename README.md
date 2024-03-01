@@ -47,6 +47,7 @@
 - [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-1) ✔
 - [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
 - [Vue.js Mini Project 3](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-3) ✔
+- [Vue.js Perspective Playground](https://github.com/hoodaddeveloper/Vue.js-Perspective-Playground) ✔
 - [Vue.js Twitter Page](https://github.com/hoodaddeveloper/Vue.js-Twitter-Page) ✔
 - [Vue.js Ticketbox](https://github.com/hoodaddeveloper/Vue.js-Ticketbox) ✔
 - [Random Quote Machine](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
@@ -54,10 +55,3 @@
 - [Drum Machine](https://github.com/hoodaddeveloper/Drum-Machine) ✔
 - [JavaScript Calculator](https://github.com/hoodaddeveloper/JavaScript-Calculator) ✔
 - [25 + 5 Clock](https://github.com/hoodaddeveloper/Pomodoro_Clock) ✔
-
-## You can also checkout some more ideas:
-
-- [A list of sample Web App Ideas](https://flaviocopes.com/sample-app-ideas/) from Flavio Copes
-- [Martyr2'S Mega Project Ideas List!](https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/?utm_source=pocket_mylist) from dreamincode.net
-- [40 Side Project Ideas for Software Engineers](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef?utm_source=pocket_mylist) from codementor.io
-- [30 Developer Portfolio Project Ideas](https://dev.to/allthecode/30-developer-portfolio-project-ideas-3kh5?utm_source=pocket_mylist) from Simon Barker
