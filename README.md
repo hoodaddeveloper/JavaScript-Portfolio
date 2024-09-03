@@ -46,6 +46,8 @@
 - [Bootstrap Sass Portfolio Page](https://github.com/hoodaddeveloper/Bootstrap-Sass-Portfolio-Page) ✔
 - [Transportation Company Website](https://github.com/hoodaddeveloper/Transportation-Company-Website) ✔
 - [New Bootstrap Project](https://github.com/hoodaddeveloper/New-Bootstrap-Project) ✔
+- [TailwindCSS Mini Project 1](https://github.com/hoodaddeveloper/Tailwind-Mini-Project-1) ✔
+- [TailwindCSS Mini Project 2](https://github.com/hoodaddeveloper/Tailwind-Mini-Project-2) ✔
 - [Vue Sandbox](https://github.com/hoodaddeveloper/Vue-Sandbox) ✔
 - [Vue.js Mini Project 1](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-1) ✔
 - [Vue.js Mini Project 2](https://github.com/hoodaddeveloper/Vue.js-Mini-Project-2) ✔
